@@ -124,4 +124,4 @@ class SortedRotatedChecker {
 // 1 1 1
 
 // Is the array sorted and rotated? true
-// Input array: [1, 1, 1]
+// Input array: [1, 1, 1]   
